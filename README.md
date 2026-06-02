@@ -2,6 +2,8 @@
 
 ## 🏅 Certifications & Achievements
 
+### 🏅 Academic Certifications & Coursework
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -11,10 +13,23 @@
       <a href="https://citu.codechum.com/certificates/27644"><b>Verify Credential ↗️</b></a>
     </td>
     <td width="50%" valign="top">
+      <h3>C Programming 2: Course Completion</h3>
+      <p>Issued by <b>CodeChum</b> • May 2026</p>
+      <p>Completed the comprehensive <b>CSIT122F3</b> coursework with a final score of <b>879/950</b>, covering advanced arrays, pointers, data structures, and file handling.</p>
+      <a href="https://citu.codechum.com/certificates/26972"><b>Verify Credential ↗️</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>C Programming 1: Course Completion</h3>
       <p>Issued by <b>CodeChum</b> • Dec 2025</p>
-      <p>Completed foundational coursework in <b>CSIT121F1</b> with a final comprehensive score of <b>1441/1605</b>, covering syntax, logical loops, functions, and array structures.</p>
+      <p>Completed foundational programming coursework in <b>CSIT121F1</b> with a comprehensive score of <b>1441/1605</b>, covering basic syntax, logical loops, functions, and array           structures.</p>
       <a href="https://citu.codechum.com/certificates/18821"><b>Verify Credential ↗️</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <!-- You can use this space for a future certification, like your Unity Junior Programmer badge! -->
+      <h3>Next Milestone Loading...</h3>
+      <p>Currently working towards advanced software development and interactive design capabilities.</p>
     </td>
   </tr>
 </table>
