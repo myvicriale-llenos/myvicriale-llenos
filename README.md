@@ -4,7 +4,7 @@
     <td width="50%" valign="top" style="padding-bottom: 20px;">
       <h3>C Programming 2: Course Completion</h3>
       <p>Issued by <b>CodeChum</b> • May 2026</p>
-      <p>Completed the comprehensive <b>CSIT122F3</b> coursework with a final score of <b>879/950</b>, covering advanced arrays, pointers, data structures, and file handling.</p>
+      <p>Completed the comprehensive <b>CSIT122F3</b> coursework covering advanced arrays, pointers, data structures, and file handling.</p>
       <a href="https://citu.codechum.com/certificates/26972"><b>Verify Credential ↗️</b></a>
     </td>
     <!-- Row 1, Col 2: C Programming 2 Certification Exam -->
@@ -21,7 +21,7 @@
     <td width="50%" valign="top">
       <h3>C Programming 1: Course Completion</h3>
       <p>Issued by <b>CodeChum</b> • Dec 2025</p>
-      <p>Completed foundational programming coursework in <b>CSIT121F1</b> with a comprehensive score of <b>1441/1605</b>, covering basic syntax, logical loops, functions, and array structures.</p>
+      <p>Completed foundational programming coursework in <b>CSIT121F1</b> covering basic syntax, logical loops, functions, and array structures.</p>
       <a href="https://citu.codechum.com/certificates/18821"><b>Verify Credential ↗️</b></a>
     </td>
     <!-- Row 2, Col 2: Unity Essentials Credly Badge -->
