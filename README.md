@@ -32,7 +32,7 @@
         </a>
       </div>
       <h3>Unity Essentials</h3>
-      <p>Issued by <b>Unity</b> • 2026</p>
+      <p>Issued by <b>Unity</b> • June 2026</p>
       <p>Demonstrated a foundational understanding of the Unity engine, real-time 3D (RT3D) development workflows, engine navigation, and the core principles of interactive game design.</p>
       <a href="https://www.credly.com/badges/0189dc39-0f99-45ca-911c-1fcc5ba435c4/public_url" target="_blank"><b>Verify Credential ↗️</b></a>
     </td>
