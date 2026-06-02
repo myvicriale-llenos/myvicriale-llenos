@@ -27,12 +27,13 @@
     </td>
     <td width="50%" valign="top">
       <!-- You can use this space for a future certification, like your Unity Junior Programmer badge! -->
+      <a href="https://www.credly.com/badges/0189dc39-0f99-45ca-911c-1fcc5ba435c4/public_url" target="_blank">    
+        <img src="https://images.credly.com/size/220x220/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" width="150" alt="Unity Essentials Badge">
+      </a>
       <h3>Next Milestone Loading...</h3>
       <p>Currently working towards advanced software development and interactive design capabilities.</p>
     </td>
   </tr>
 </table>
 
-<a href="https://www.credly.com/badges/0189dc39-0f99-45ca-911c-1fcc5ba435c4/public_url" target="_blank">    
-  <img src="https://images.credly.com/size/220x220/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" width="150" alt="Unity Essentials Badge">
-</a>
+
