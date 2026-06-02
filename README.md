@@ -2,7 +2,6 @@
 
 ## 🏅 Certifications & Achievements
 
-### 🏅 Academic Certifications & Coursework
 
 <table>
   <tr>
