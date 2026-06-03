@@ -1,5 +1,12 @@
 ## <h3 align="center">Hi! I'm Myvi Criale Llenos, a programmer who aims to achieve their goals one step at a time.<br>Always learning, always becoming.</h3>
 
+<h3>Projects:</h3>
+  <a href="https://play.unity.com/en/games/9f7bad24-d6d7-4483-9552-59bfc8a9de2e/essentials-project" target="_blank">
+    <img src="https://img.shields.io/badge/Play_My_Game-Unity_Play-black?style=for-the-badge&logo=unity&logoColor=white" alt="Play my game on Unity Play" />
+  </a>
+<br>
+
+<h3>Credentials:</h3>
 <table>
   <tr>
     <!-- Row 1, Col 1: C Programming 2 Course Completion -->
