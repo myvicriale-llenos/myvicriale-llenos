@@ -1,3 +1,5 @@
+## <h3 align="center">Hi! I'm Myvi Criale Llenos, a programmer who aims to achieve their goals one step at a time.<br>Always learning, always becoming.</h3>
+
 <table>
   <tr>
     <!-- Row 1, Col 1: C Programming 2 Course Completion -->
