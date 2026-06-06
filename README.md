@@ -2,7 +2,11 @@
 
 <h3>Projects:</h3>
   <a href="https://play.unity.com/en/games/9f7bad24-d6d7-4483-9552-59bfc8a9de2e/essentials-project" target="_blank">
-    <img src="https://img.shields.io/badge/Play_My_Game-Unity_Play-black?style=for-the-badge&logo=unity&logoColor=white" alt="Play my game on Unity Play" />
+    <img src="https://img.shields.io/badge/Essentials_Project_-Unity_Play-ACE1AF?style=for-the-badge&logo=unity&logoColor=ACE1AF" alt="Play Essentials Project on Unity Play" />
+  </a>
+<br>
+  <a href="https://play.unity.com/en/games/4c69d602-034f-4f82-a794-759beb5be679/jr-programmer-games-1" target="_blank">
+    <img src="https://img.shields.io/badge/Jr._Programmer_Games_1-Unity_Play-C8A2C8?style=for-the-badge&logo=unity&logoColor=C8A2C8" alt="Play Jr. Programmer Games - 1 on Unity Play" />
   </a>
 <br>
 
