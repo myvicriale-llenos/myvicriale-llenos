@@ -31,14 +31,14 @@
   
   <tr>
     <!-- Row 2, Col 1: C Programming 1 Course Completion -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-bottom: 20px;">
       <h3>C Programming 1: Course Completion</h3>
       <p>Issued by <b>CodeChum</b> • Dec 2025</p>
       <p>Completed foundational programming coursework in <b>CSIT121F1</b> covering basic syntax, logical loops, functions, and array structures.</p>
       <a href="https://citu.codechum.com/certificates/18821"><b>Verify Credential</b></a>
     </td>
     <!-- Row 2, Col 2: Unity Essentials Credly Badge -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-bottom: 20px;">
       <div style="float: right; margin-left: 10px;">
         <a href="https://www.credly.com/badges/0189dc39-0f99-45ca-911c-1fcc5ba435c4/public_url" target="_blank">    
           <img src="https://images.credly.com/size/220x220/images/99f74b86-46d7-429d-9d43-2ed446b35af9/blob" width="70" alt="Unity Essentials Badge">
@@ -48,6 +48,23 @@
       <p>Issued by <b>Unity</b> • June 2026</p>
       <p>Demonstrated a foundational understanding of the Unity engine, real-time 3D (RT3D) development workflows, engine navigation, and the core principles of interactive game design.</p>
       <a href="https://www.credly.com/badges/0189dc39-0f99-45ca-911c-1fcc5ba435c4/public_url" target="_blank"><b>Verify Credential</b></a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Row 3, Col 1: freeCodeCamp Responsive Web Design v9 -->
+    <td width="50%" valign="top">
+      <h3>Responsive Web Design (v9)</h3>
+      <p>Issued by <b>freeCodeCamp</b> • 2026</p>
+      <p>Mastered modern responsive web development techniques including HTML5, CSS3, Flexbox, CSS Grid, and media queries through project-based learning.</p>
+      <a href="https://freecodecamp.org/certification/myvicriale-llenos/responsive-web-design-v9" target="_blank"><b>Verify Credential</b></a>
+    </td>
+    <!-- Row 3, Col 2: freeCodeCamp Responsive Web Design (Legacy) -->
+    <td width="50%" valign="top">
+      <h3>Responsive Web Design</h3>
+      <p>Issued by <b>freeCodeCamp</b> • 2026</p>
+      <p>Completed core web development training spanning semantics, typography, accessibility, and clean visual layouts.</p>
+      <a href="https://freecodecamp.org/certification/myvicriale-llenos/responsive-web-design" target="_blank"><b>Verify Credential</b></a>
     </td>
   </tr>
 </table>
