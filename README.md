@@ -53,18 +53,31 @@
 
   <tr>
     <!-- Row 3, Col 1: freeCodeCamp Responsive Web Design v9 -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-bottom: 20px;">
       <h3>Responsive Web Design (v9)</h3>
       <p>Issued by <b>freeCodeCamp</b> • 2026</p>
       <p>Mastered modern responsive web development techniques including HTML5, CSS3, Flexbox, CSS Grid, and media queries through project-based learning.</p>
       <a href="https://freecodecamp.org/certification/myvicriale-llenos/responsive-web-design-v9" target="_blank"><b>Verify Credential</b></a>
     </td>
     <!-- Row 3, Col 2: freeCodeCamp Responsive Web Design (Legacy) -->
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding-bottom: 20px;">
       <h3>Responsive Web Design</h3>
       <p>Issued by <b>freeCodeCamp</b> • 2026</p>
       <p>Completed core web development training spanning semantics, typography, accessibility, and clean visual layouts.</p>
       <a href="https://freecodecamp.org/certification/myvicriale-llenos/responsive-web-design" target="_blank"><b>Verify Credential</b></a>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Row 4, Col 1: freeCodeCamp English for Developers -->
+    <td width="50%" valign="top">
+      <h3>English for Developers (B1)</h3>
+      <p>Issued by <b>freeCodeCamp</b> • 2026</p>
+      <p>Validated professional English language proficiency tailored for developer workflows, technical documentation reading, and global team collaboration.</p>
+      <a href="https://freecodecamp.org/certification/myvicriale-llenos/b1-english-for-developers" target="_blank"><b>Verify Credential</b></a>
+    </td>
+    <!-- Row 4, Col 2: Future Slot -->
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
